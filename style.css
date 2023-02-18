@@ -114,6 +114,10 @@ button{
     background-color: white;
 }
 
+.attribution{
+    font-size: 0.9rem;
+}
+
 @media screen and (max-width : 813px){
     .hamberger{
         display: block;
